@@ -1,0 +1,21 @@
+{
+  "name": "bower-example",
+  "version": "1.0.0",
+  "authors": [
+    "Emilio <emilio@jsjutsu.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

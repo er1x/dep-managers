@@ -1,0 +1,11 @@
+{
+  "name": "npm-manager-example",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A npm usage example",
+  "author": "Emilio <emilio@jsjutsu.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
